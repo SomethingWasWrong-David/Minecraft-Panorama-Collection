@@ -2,14 +2,23 @@
 
 Other Language（其它语言）：[中文（Chinese）](https://github.com/SomethingWasWrong-David/Minecraft-Panorama-Collection/blob/main/ReadME-CN.md)
 
-A repository that is used to collect all the panoramas in Minecraft, including Minecraft Java Edition, Minecraft Bedrock Edition, and Education Edition.
+A Repository That Is Used To Collect All Panoramas In Minecraft, Including Minecraft Java Edition,Minecraft Bedrock Edition And Education Edition.It Also includes Removed panoramas.
 
 Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)
 
 Progress:
 
-Minecraft Java Edition
+Multi-Edition
+- [ ] Nether Update
+- [ ] Caves & Cliffs: Part I
+- [ ] Caves & Cliffs: Part II
+- [ ] The Wild Update
+- [ ] Trails & Tales
 
-- [ ] Minecraft Java Edition Classical Panorama(Before Pre-Beta 1.9 Prerelease 4)
-- [ ] Minecraft Java Edition Classical Panorama
-- [ ] Minecraft Java Edition Update Aquatic
+Minecraft Java Edition Only
+- [ ] Classical Panorama(Before Pre-Beta 1.9 Prerelease 4)
+- [ ] Classical Panorama
+- [ ] Update Aquatic
+- [ ] Village & Pillage
+- [ ] Buzzy Bees
+- [ ] Caves & Cliffs: Part I(Pre-21w18a)
