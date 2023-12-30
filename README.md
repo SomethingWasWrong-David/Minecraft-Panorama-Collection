@@ -6,11 +6,10 @@ A Repository That Is Used To Collect All Panoramas In Minecraft, Including Minec
 
 Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)
 
-Attention:With the exception of Nether Update, which did not appear in Education Edition, subsequent updates of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.
+Attention: The PanoramaEducation Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.
 ---------------------------------------
 Progress
-
-Multi-Edition
+Java and Bedrock Edition
 - [ ] Nether Update
 - [ ] Caves & Cliffs: Part I
 - [ ] Caves & Cliffs: Part II
@@ -29,8 +28,8 @@ Minecraft Java Edition Only
 
 -----------------------------------------------------------------
 
-Minecraft Bedrock Edition Only
-- [ ] Classical Panorama
+Minecraft Bedrock Edition/Pocket Edition Only
+- [ ] Classical Panorama(Pocket Edition)
 - [ ] Better Together Update
 - [ ] 2017 Christmas
 - [ ] Update Aquatic
@@ -43,15 +42,20 @@ Minecraft Bedrock Edition Only
 - [ ] Halloween 2022
 
 -----------------------------------------------------------------
-Minecraft Education Edition Only(Without Better Together Update)
+
+Minecraft Education Edition Only
+- [ ] Education Beta
+- [ ] Education Personal Edition
 - [ ] Back to School Update
 - [ ] Education Edition Demo
 - [ ] Learn to Code Update
-- [ ] GOAT Update
-- [ ] Mobile, Multiplayer & More Update
-- [ ] Hour of Code:TimeCraft
-- [ ] Hour of Code:Escape Estate
+- [ ] GOAT Update(Caves & Cliffs: Part I Education Edition)
+- [ ] Mobile, Multiplayer & More Update(Caves & Cliffs: Part II Education Edition)
+- [ ] Hour of Code: TimeCraft
+- [ ] Hour of Code: Escape Estate
 - [ ] Frozen Planet 2
-- [ ] Artemis:Rocket Build
-- [ ] Hour Of Code:Generation AI
+- [ ] The Wild Update Education Edition
+- [ ] Artemis: Rocket Build
+- [ ] Trails & Tales Education Edition
+- [ ] Hour Of Code: Generation AI
       
