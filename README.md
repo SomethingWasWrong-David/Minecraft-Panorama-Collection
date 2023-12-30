@@ -24,3 +24,31 @@ Minecraft Java Edition Only
 - [ ] Village & Pillage
 - [ ] Buzzy Bees
 - [ ] Caves & Cliffs: Part I(Pre-21w18a)
+
+-----------------------------------------------------------------
+
+Minecraft Bedrock Edition Only
+- [ ] Classical Panorama
+- [ ] Better Together Update
+- [ ] 2017 Christmas
+- [ ] Update Aquatic
+- [ ] Cats and Pandas
+- [ ] Village & Pillage
+- [ ] Buzzy Bees
+- [ ] Bedrock Edition Beta
+- [ ] Halloween 2021
+- [ ] Bedrock Edition Preview
+- [ ] Halloween 2022
+
+-----------------------------------------------------------------
+Minecraft Education Edition Only(Without Better Together Update)
+- [ ] Back to School Update
+- [ ] Education Edition Demo
+- [ ] Learn to Code Update
+- [ ] GOAT Update
+- [ ] Mobile, Multiplayer & More Update
+- [ ] Hour of Code:TimeCraft
+- [ ] Hour of Code:Escape Estate
+
+      
+      
