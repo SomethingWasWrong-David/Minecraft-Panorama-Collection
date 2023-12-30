@@ -15,6 +15,8 @@ Multi-Edition
 - [ ] The Wild Update
 - [ ] Trails & Tales
 
+-----------------------------------------------------------------
+
 Minecraft Java Edition Only
 - [ ] Classical Panorama(Before Pre-Beta 1.9 Prerelease 4)
 - [ ] Classical Panorama
