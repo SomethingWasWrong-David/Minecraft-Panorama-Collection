@@ -7,6 +7,9 @@ A repository that is used to collect all the panoramas in Minecraft, including M
 Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)
 
 Progress:
-Minecraft Java Edition Classical Panorama(Before Pre-Beta 1.9 Prerelease 4) - [ ]
-Minecraft Java Edition Classical Panorama - [ ]
-Minecraft Java Edition Update Aquatic - [ ]
+
+Minecraft Java Edition
+
+- [ ] Minecraft Java Edition Classical Panorama(Before Pre-Beta 1.9 Prerelease 4)
+- [ ] Minecraft Java Edition Classical Panorama
+- [ ] Minecraft Java Edition Update Aquatic
