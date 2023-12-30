@@ -6,7 +6,7 @@ A Repository That Is Used To Collect All Panoramas In Minecraft, Including Minec
 
 Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)
 
-Attention: The PanoramaEducation Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.
+Attention: The Panorama Of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.
 ---------------------------------------
 Progress
 Java and Bedrock Edition
@@ -43,7 +43,7 @@ Minecraft Bedrock Edition/Pocket Edition Only
 
 -----------------------------------------------------------------
 
-Minecraft Education Edition Only
+Minecraft Education Edition Only(14 Panoramas)
 - [ ] Education Beta
 - [ ] Education Personal Edition
 - [ ] Back to School Update
