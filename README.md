@@ -6,7 +6,9 @@ A Repository That Is Used To Collect All Panoramas In Minecraft, Including Minec
 
 Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)
 
-Progress:
+Attention:With the exception of Nether Update, which did not appear in Education Edition, subsequent updates of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted in order to add features in Education Edition.
+---------------------------------------
+Progress
 
 Multi-Edition
 - [ ] Nether Update
@@ -49,6 +51,7 @@ Minecraft Education Edition Only(Without Better Together Update)
 - [ ] Mobile, Multiplayer & More Update
 - [ ] Hour of Code:TimeCraft
 - [ ] Hour of Code:Escape Estate
-
-      
+- [ ] Frozen Planet 2
+- [ ] Artemis:Rocket Build
+- [ ] Hour Of Code:Generation AI
       
