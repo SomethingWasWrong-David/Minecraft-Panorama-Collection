@@ -6,7 +6,7 @@ A Repository That Is Used To Collect All Panoramas In Minecraft, Including Minec
 
 Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)
 
-Attention:With the exception of Nether Update, which did not appear in Education Edition, subsequent updates of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted in order to add features in Education Edition.
+Attention:With the exception of Nether Update, which did not appear in Education Edition, subsequent updates of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.
 ---------------------------------------
 Progress
 
