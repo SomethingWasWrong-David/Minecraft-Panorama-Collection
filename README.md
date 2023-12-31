@@ -27,13 +27,13 @@ Minecraft Java Edition Only(6 Panoramas)
 -----------------------------------------------------------------
 Minecraft Bedrock Edition/Pocket Edition Only(11 Panoramas)
 - [ ] Classical Panorama(Pocket Edition)
-- [ ] Better Together Update
+- [x] Better Together Update
 - [ ] 2017 Christmas
 - [x] Update Aquatic
 - [ ] Cats and Pandas
 - [ ] Village & Pillage
 - [ ] Buzzy Bees
-- [x] Bedrock Edition Beta
+- [] Bedrock Edition Beta
 - [ ] Halloween 2021
 - [ ] Bedrock Edition Preview
 - [ ] Halloween 2022
