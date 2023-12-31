@@ -48,7 +48,7 @@ Minecraft Education Edition Only(15 Panoramas){共有15张教育版独有全景�
 - [ ] ChromeBook Release（ChromeBook更新）
 - [ ] Learn to Code Update（Learn to Code更新）
 - [ ] GOAT Update(Caves & Cliffs: Part I Education Edition){山羊更新【洞穴与山崖：第一部分教育版】}
-- [ ] Mobile, Multiplayer & More Update(Caves & Cliffs: Part II Education Edition){Mobile, Multiplayer & More更新【洞穴与山崖：第二部分教育版】}
+- [ ] Mobile, Multiplayer & More Update(Caves & Cliffs: Part II Education Edition){洞穴与山崖：第二部分教育版}
 - [ ] Hour of Code: TimeCraft（编辑一小时：时间之旅）
 - [ ] Hour of Code: Escape Estate（编辑一小时：逃离庄园）
 - [ ] Frozen Planet 2（冰冻星球2）
