@@ -1,15 +1,16 @@
-# Minecraft Panorama Collection(WIP)
+# Minecraft Panorama Collection(Minecraft 全景图收集库)
 
-Other Language（其它语言）：[中文（Chinese）](https://github.com/SomethingWasWrong-David/Minecraft-Panorama-Collection/blob/main/ReadME-CN.md)
+A Repository That Is Used To Collect All Panoramas In Minecraft, Including Minecraft Java Edition,Minecraft Bedrock Edition And Education Edition.It Also includes Removed panoramas.<br>
+用于收集Minecraft Java版、基岩版、教育版全景图的存储库
 
-A Repository That Is Used To Collect All Panoramas In Minecraft, Including Minecraft Java Edition,Minecraft Bedrock Edition And Education Edition.It Also includes Removed panoramas.
+Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
+全景图来源：[Minecraft Wiki](https://zh.minecraft.wiki/w/%E5%85%A8%E6%99%AF%E5%9B%BE)
 
-Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)
-
-Attention: The Panorama Of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.
+NOTE: The Panorama Of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.
+注意：教育版全景图在Java版和基岩版的全景图相同，但在此基础上调整以添加教育版独有特性。
 ---------------------------------------
-Progress(8/35 Panoramas)
-
+Progress(8/35 Panoramas)<br>
+进展（8/35张全景图）<br>
 Java and Bedrock Edition(5 Panoramas)
 - [ ] Nether Update
 - [x] Caves & Cliffs: Part I
