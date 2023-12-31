@@ -9,8 +9,8 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
 NOTE: The Panorama Of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.<br>
 注意：教育版全景图是在Java版和基岩版的全景图的基础上调整以添加教育版独有特性。
 ---------------------------------------
-Progress(8/35 Panoramas)<br>
-进展（8/35张全景图）
+Progress(8/36 Panoramas)<br>
+进展（8/36张全景图）
 
 Java and Bedrock Edition(5 Panoramas){共有5张Java版和基岩版共有全景图}
 - [ ] Buzzy Bees(Java/Bedrock Edition 1.14.0.2){嗡嗡蜂群【Java/基岩版1.14.0.2后】}
@@ -40,11 +40,12 @@ Minecraft Bedrock Edition/Pocket Edition Only(11 Panoramas){共有11张基岩版
 - [ ] Bedrock Edition Preview（基岩版Preview）
 - [ ] Halloween 2022（2022年万圣节）
 -----------------------------------------------------------------
-Minecraft Education Edition Only(14 Panoramas){共有14张教育版独有全景图}
+Minecraft Education Edition Only(14 Panoramas){共有15张教育版独有全景图}
 - [ ] Education Beta（教育版Beta）
 - [ ] Education Personal Edition（教育个人版）
 - [ ] Back to School Update（返校更新）
 - [ ] Education Edition Demo（教育版演示）
+- [ ] ChromeBook Release（ChromeBook更新）
 - [ ] Learn to Code Update（Learn to Code更新）
 - [ ] GOAT Update(Caves & Cliffs: Part I Education Edition){山羊更新【洞穴与山崖：第一部分教育版】}
 - [ ] Mobile, Multiplayer & More Update(Caves & Cliffs: Part II Education Edition){Mobile, Multiplayer & More更新【洞穴与山崖：第二部分教育版】}
@@ -52,6 +53,6 @@ Minecraft Education Edition Only(14 Panoramas){共有14张教育版独有全景�
 - [ ] Hour of Code: Escape Estate（编辑一小时：逃离庄园）
 - [ ] Frozen Planet 2（冰冻星球2）
 - [ ] The Wild Update Education Edition（荒野更新教育版）
-- [ ] Artemis: Rocket Build（阿尔忒弥斯计划：火箭建造）
+- [ ] Artemis: Rocket Build（阿尔忒弥斯计划：火箭制造）
 - [ ] Trails & Tales Education Edition（足迹与故事教育版）
 - [ ] Hour Of Code: Generation AI（编辑一小时：AI世代）
