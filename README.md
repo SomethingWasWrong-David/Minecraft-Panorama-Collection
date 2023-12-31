@@ -28,10 +28,10 @@ Minecraft Java Edition Only(6 Panoramas){共有5张Java版独有全景图}
 - [ ] Caves & Cliffs: Part I(Pre-21w18a){洞穴与山崖：第一部分【火把存在版】}
 -----------------------------------------------------------------
 Minecraft Bedrock Edition/Pocket Edition Only(11 Panoramas){共有11张基岩版独有全景图}
-- [ ] Classical Panorama(Pocket Edition){}
-- [x] Better Together Update（）
+- [ ] Classical Panorama(Pocket Edition){经典全景图【携带版模糊】}
+- [x] Better Together Update（独乐不如众乐更新）
 - [ ] 2017 Christmas（2017年圣诞节）
-- [x] Update Aquatic（）
+- [x] Update Aquatic（水域更新）
 - [x] Cats and Pandas（猫与熊猫）
 - [ ] Village & Pillage（村庄与掠夺）
 - [ ] Buzzy Bees(1.14.0.1){嗡嗡蜂群【基岩版1.14.0.1】}
@@ -43,11 +43,11 @@ Minecraft Bedrock Edition/Pocket Edition Only(11 Panoramas){共有11张基岩版
 Minecraft Education Edition Only(14 Panoramas){共有14张教育版独有全景图}
 - [ ] Education Beta（教育版Beta）
 - [ ] Education Personal Edition（教育个人版）
-- [ ] Back to School Update（）
+- [ ] Back to School Update（返校更新）
 - [ ] Education Edition Demo（教育版演示）
-- [ ] Learn to Code Update（）
+- [ ] Learn to Code Update（Learn to Code更新）
 - [ ] GOAT Update(Caves & Cliffs: Part I Education Edition){山羊更新【洞穴与山崖：第一部分教育版】}
-- [ ] Mobile, Multiplayer & More Update(Caves & Cliffs: Part II Education Edition){【洞穴与山崖：第二部分教育版】}
+- [ ] Mobile, Multiplayer & More Update(Caves & Cliffs: Part II Education Edition){Mobile, Multiplayer & More更新【洞穴与山崖：第二部分教育版】}
 - [ ] Hour of Code: TimeCraft（编辑一小时：时间之旅）
 - [ ] Hour of Code: Escape Estate（编辑一小时：逃离庄园）
 - [ ] Frozen Planet 2（冰冻星球2）
