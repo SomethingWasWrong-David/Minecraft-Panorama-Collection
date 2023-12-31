@@ -33,7 +33,7 @@ Minecraft Bedrock Edition/Pocket Edition Only(11 Panoramas)
 - [ ] Cats and Pandas
 - [ ] Village & Pillage
 - [ ] Buzzy Bees
-- [] Bedrock Edition Beta
+- [ ] Bedrock Edition Beta
 - [ ] Halloween 2021
 - [ ] Bedrock Edition Preview
 - [ ] Halloween 2022
