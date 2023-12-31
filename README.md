@@ -13,7 +13,7 @@ Progress(5/35 Panoramas)
 Java and Bedrock Edition(5 Panoramas)
 - [ ] Nether Update
 - [ ] Caves & Cliffs: Part I
-- [ ] Caves & Cliffs: Part II
+- [x] Caves & Cliffs: Part II
 - [ ] The Wild Update
 - [ ] Trails & Tales
 -----------------------------------------------------------------
