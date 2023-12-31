@@ -8,7 +8,7 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)
 
 Attention: The Panorama Of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.
 ---------------------------------------
-Progress(3/35 Panoramas)
+Progress(5/35 Panoramas)
 
 Java and Bedrock Edition(5 Panoramas)
 - [ ] Nether Update
