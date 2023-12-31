@@ -13,45 +13,45 @@ Progress(8/35 Panoramas)<br>
 进展（8/35张全景图）
 
 Java and Bedrock Edition(5 Panoramas){共有5张Java版和基岩版共有全景图}
+- [ ] Buzzy Bees(Java/Bedrock Edition 1.14.0.2){嗡嗡蜂群【Java/基岩版1.14.0.2后】}
 - [ ] Nether Update（下界更新）
-- [x] Caves & Cliffs: Part I（）
-- [x] Caves & Cliffs: Part II（）
-- [ ] The Wild Update（）
-- [ ] Trails & Tales（）
+- [x] Caves & Cliffs: Part I（洞穴与山崖：第一部分）
+- [x] Caves & Cliffs: Part II（洞穴与山崖：第二部分）
+- [ ] The Wild Update（荒野更新）
+- [ ] Trails & Tales（足迹与故事）
 -----------------------------------------------------------------
 Minecraft Java Edition Only(6 Panoramas){共有5张Java版独有全景图}
-- [ ] Classical Panorama(Pre-Beta 1.9 Prerelease 4){经典全景图（白线未修复版）}
-- [ ] Classical Panorama(经典全景图{白线修复版})
-- [x] Update Aquatic(水域更新)
-- [x] Village & Pillage()
-- [ ] Buzzy Bees(嗡嗡蜂群)
-- [ ] Caves & Cliffs: Part I(Pre-21w18a){}
+- [ ] Classical Panorama(Pre-Beta 1.9 Prerelease 4){经典全景图【白线未修复版】}
+- [ ] Classical Panorama（经典全景图【白线修复版】）
+- [x] Update Aquatic（水域更新）
+- [x] Village & Pillage（村庄与掠夺）
+- [ ] Caves & Cliffs: Part I(Pre-21w18a){洞穴与山崖：第一部分【火把存在版】}
 -----------------------------------------------------------------
 Minecraft Bedrock Edition/Pocket Edition Only(11 Panoramas){共有11张基岩版独有全景图}
 - [ ] Classical Panorama(Pocket Edition){}
-- [x] Better Together Update()
-- [ ] 2017 Christmas()
-- [x] Update Aquatic()
-- [x] Cats and Pandas()
-- [ ] Village & Pillage()
-- [ ] Buzzy Bees()
-- [x] Bedrock Edition Beta()
-- [ ] Halloween 2021()
-- [ ] Bedrock Edition Preview()
-- [ ] Halloween 2022()
+- [x] Better Together Update（）
+- [ ] 2017 Christmas（2017年圣诞节）
+- [x] Update Aquatic（）
+- [x] Cats and Pandas（猫与熊猫）
+- [ ] Village & Pillage（村庄与掠夺）
+- [ ] Buzzy Bees(1.14.0.1){嗡嗡蜂群【基岩版1.14.0.1】}
+- [x] Bedrock Edition Beta（基岩版Beta）
+- [ ] Halloween 2021（2021年万圣节）
+- [ ] Bedrock Edition Preview（基岩版Preview）
+- [ ] Halloween 2022（2022年万圣节）
 -----------------------------------------------------------------
 Minecraft Education Edition Only(14 Panoramas){共有14张教育版独有全景图}
-- [ ] Education Beta()
-- [ ] Education Personal Edition()
-- [ ] Back to School Update()
-- [ ] Education Edition Demo()
-- [ ] Learn to Code Update()
-- [ ] GOAT Update(Caves & Cliffs: Part I Education Edition){}
-- [ ] Mobile, Multiplayer & More Update(Caves & Cliffs: Part II Education Edition){}
-- [ ] Hour of Code: TimeCraft()
-- [ ] Hour of Code: Escape Estate()
-- [ ] Frozen Planet 2()
-- [ ] The Wild Update Education Edition
-- [ ] Artemis: Rocket Build
-- [ ] Trails & Tales Education Edition
-- [ ] Hour Of Code: Generation AI
+- [ ] Education Beta（教育版Beta）
+- [ ] Education Personal Edition（教育个人版）
+- [ ] Back to School Update（）
+- [ ] Education Edition Demo（教育版演示）
+- [ ] Learn to Code Update（）
+- [ ] GOAT Update(Caves & Cliffs: Part I Education Edition){山羊更新【洞穴与山崖：第一部分教育版】}
+- [ ] Mobile, Multiplayer & More Update(Caves & Cliffs: Part II Education Edition){【洞穴与山崖：第二部分教育版】}
+- [ ] Hour of Code: TimeCraft（编辑一小时：时间之旅）
+- [ ] Hour of Code: Escape Estate（编辑一小时：逃离庄园）
+- [ ] Frozen Planet 2（冰冻星球2）
+- [ ] The Wild Update Education Edition（荒野更新教育版）
+- [ ] Artemis: Rocket Build（阿尔忒弥斯计划：火箭建造）
+- [ ] Trails & Tales Education Edition（足迹与故事教育版）
+- [ ] Hour Of Code: Generation AI（编辑一小时：AI世代）
