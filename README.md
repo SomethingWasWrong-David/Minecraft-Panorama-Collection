@@ -8,7 +8,7 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)
 
 Attention: The Panorama Of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.
 ---------------------------------------
-Progress(0/35 Panoramas)
+Progress(3/35 Panoramas)
 
 Java and Bedrock Edition(5 Panoramas)
 - [ ] Nether Update
@@ -20,7 +20,7 @@ Java and Bedrock Edition(5 Panoramas)
 Minecraft Java Edition Only(6 Panoramas)
 - [ ] Classical Panorama(Pre-Beta 1.9 Prerelease 4)
 - [ ] Classical Panorama
-- [ ] Update Aquatic
+- [x] Update Aquatic
 - [ ] Village & Pillage
 - [ ] Buzzy Bees
 - [ ] Caves & Cliffs: Part I(Pre-21w18a)
@@ -29,11 +29,11 @@ Minecraft Bedrock Edition/Pocket Edition Only(11 Panoramas)
 - [ ] Classical Panorama(Pocket Edition)
 - [ ] Better Together Update
 - [ ] 2017 Christmas
-- [ ] Update Aquatic
+- [x] Update Aquatic
 - [ ] Cats and Pandas
 - [ ] Village & Pillage
 - [ ] Buzzy Bees
-- [ ] Bedrock Edition Beta
+- [x] Bedrock Edition Beta
 - [ ] Halloween 2021
 - [ ] Bedrock Edition Preview
 - [ ] Halloween 2022
