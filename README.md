@@ -40,7 +40,7 @@ Minecraft Bedrock Edition/Pocket Edition Only(11 Panoramas){共有11张基岩版
 - [ ] Bedrock Edition Preview（基岩版Preview）
 - [ ] Halloween 2022（2022年万圣节）
 -----------------------------------------------------------------
-Minecraft Education Edition Only(14 Panoramas){共有15张教育版独有全景图}
+Minecraft Education Edition Only(15 Panoramas){共有15张教育版独有全景图}
 - [ ] Education Beta（教育版Beta）
 - [ ] Education Personal Edition（教育个人版）
 - [ ] Back to School Update（返校更新）
