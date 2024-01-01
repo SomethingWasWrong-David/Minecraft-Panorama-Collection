@@ -34,7 +34,7 @@ Minecraft Bedrock Edition/Pocket Edition Only(11 Panoramas){共有11张基岩版
 - [x] Update Aquatic（水域更新）
 - [x] Cats and Pandas（猫与熊猫）
 - [x] Village & Pillage（村庄与掠夺）
-- [ ] Buzzy Bees(1.14.0.1){嗡嗡蜂群【基岩版1.14.0.1】}
+- [ ] Buzzy Bees(Bedrock Edition 1.14.0.1){嗡嗡蜂群【基岩版1.14.0.1】}
 - [x] Bedrock Edition Beta（基岩版Beta）
 - [x] Halloween 2021（2021年万圣节）
 - [x] Bedrock Edition Preview（基岩版Preview）
