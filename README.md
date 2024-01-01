@@ -7,6 +7,7 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
 全景图来源：[Minecraft Wiki](https://zh.minecraft.wiki/w/%E5%85%A8%E6%99%AF%E5%9B%BE)
 
 <strong>NOTE</strong>
+
 <strong>注意</strong>
 
 <strong>1.The Panorama Of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features,so I list it alone.<br></strong>
