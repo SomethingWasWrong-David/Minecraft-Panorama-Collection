@@ -9,8 +9,8 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
 NOTE: The Panorama Of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.<br>
 注意：教育版全景图是在Java版和基岩版的全景图的基础上调整以添加教育版独有特性。
 ---------------------------------------
-Progress(9/36 Panoramas)<br>
-进展（9/36张全景图）
+Progress(12/36 Panoramas)<br>
+进展（12/36张全景图）
 
 Java and Bedrock Edition(5 Panoramas){共有5张Java版和基岩版共有全景图}
 - [ ] Buzzy Bees(Java/Bedrock Edition 1.14.0.2){嗡嗡蜂群【Java/基岩版1.14.0.2后】}
@@ -33,12 +33,12 @@ Minecraft Bedrock Edition/Pocket Edition Only(11 Panoramas){共有11张基岩版
 - [ ] 2017 Christmas（2017年圣诞节）
 - [x] Update Aquatic（水域更新）
 - [x] Cats and Pandas（猫与熊猫）
-- [ ] Village & Pillage（村庄与掠夺）
+- [x] Village & Pillage（村庄与掠夺）
 - [ ] Buzzy Bees(1.14.0.1){嗡嗡蜂群【基岩版1.14.0.1】}
 - [x] Bedrock Edition Beta（基岩版Beta）
-- [ ] Halloween 2021（2021年万圣节）
-- [ ] Bedrock Edition Preview（基岩版Preview）
-- [ ] Halloween 2022（2022年万圣节）
+- [x] Halloween 2021（2021年万圣节）
+- [x] Bedrock Edition Preview（基岩版Preview）
+- [x] Halloween 2022（2022年万圣节）
 -----------------------------------------------------------------
 Minecraft Education Edition Only(15 Panoramas){共有15张教育版独有全景图}
 - [ ] Education Beta（教育版Beta）
