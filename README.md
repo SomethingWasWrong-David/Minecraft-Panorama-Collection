@@ -28,7 +28,7 @@ Minecraft Java Edition Only(6 Panoramas){共有5张Java版独有全景图}
 - [ ] Caves & Cliffs: Part I(Pre-21w18a){洞穴与山崖：第一部分【火把存在版】}
 -----------------------------------------------------------------
 Minecraft Bedrock Edition/Pocket Edition Only(11 Panoramas){共有11张基岩版独有全景图}
-- [ ] Classical Panorama(Pocket Edition){经典全景图【携带版模糊】}
+- [ ] Classical Panorama(Pocket Edition){经典全景图【携带版模糊版】}
 - [x] Better Together Update（独乐不如众乐更新）
 - [ ] 2017 Christmas（2017年圣诞节）
 - [x] Update Aquatic（水域更新）
