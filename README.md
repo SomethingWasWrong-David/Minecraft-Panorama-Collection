@@ -13,8 +13,8 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
 <strong>1.教育版全景图是在Java版和基岩版的全景图的基础上调整以添加教育版独有特性，因为它们都有别于Java版和基岩版共有的全景图，因此单独列出。</strong>
 
 <strong>2.Buzzy Bees Has Two Versions Panoramas In Bedrock Edition,because they're different from Java Edition,so I list them alone.<br></strong>
-2.基岩版的嗡嗡蜂群有两个版本的全景图，因为它们都有别于Java版，因此单独列出。
----------------------------------------
+<strong>2.基岩版的嗡嗡蜂群有两个版本的全景图，因为它们都有别于Java版，因此单独列出。</strong>
+
 Progress(20/37 Panoramas)<br>
 进展（20/37张全景图）
 
