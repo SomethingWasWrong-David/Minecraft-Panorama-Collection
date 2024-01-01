@@ -9,11 +9,11 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
 NOTE: The Panorama Of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features.<br>
 注意：教育版全景图是在Java版和基岩版的全景图的基础上调整以添加教育版独有特性。
 ---------------------------------------
-Progress(12/36 Panoramas)<br>
-进展（12/36张全景图）
+Progress(14/36 Panoramas)<br>
+进展（14/36张全景图）
 
 Java and Bedrock Edition(5 Panoramas){共有5张Java版和基岩版共有全景图}
-- [ ] Buzzy Bees(Java/Bedrock Edition 1.14.0.2){嗡嗡蜂群【Java/基岩版1.14.0.2后】}
+- [x] Buzzy Bees(Java/Bedrock Edition 1.14.0.2){嗡嗡蜂群【Java/基岩版1.14.0.2后】}
 - [ ] Nether Update（下界更新）
 - [x] Caves & Cliffs: Part I（洞穴与山崖：第一部分）
 - [x] Caves & Cliffs: Part II（洞穴与山崖：第二部分）
