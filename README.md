@@ -13,11 +13,11 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
 <strong>1.The Panorama Of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features,so I list it alone.<br></strong>
 <strong>1.教育版全景图是在Java版和基岩版的全景图的基础上调整以添加教育版独有特性，因为它们都有别于Java版和基岩版共有的全景图，因此单独列出。</strong>
 
-<strong>2.Buzzy Bees Has Two Versions Panoramas In Bedrock Edition,because they're different from Java Edition,so I list them alone.<br></strong>
-<strong>2.基岩版的嗡嗡蜂群有两个版本的全景图，因为它们都有别于Java版，因此单独列出。</strong>
+<strong>2.Some Panorama Have Two Version Because They Has Adjusted I List Them Alone.<br></strong>
+<strong>2.基岩版的嗡嗡蜂群有两个版本的全景图，因此单独列出。</strong>
 -----------------------------------------------------------------
-Progress(20/37 Panoramas)<br>
-进展（20/37张全景图）
+Progress(23/37 Panoramas)<br>
+进展（23/37张全景图）
 
 Java and Bedrock Edition(5 Panoramas){共有5张Java版和基岩版共有全景图}
 - [x] Buzzy Bees(Java/Bedrock Edition 1.14.0.2){嗡嗡蜂群【Java/基岩版1.14.0.2后】}
@@ -28,8 +28,8 @@ Java and Bedrock Edition(5 Panoramas){共有5张Java版和基岩版共有全景�
 - [ ] Trails & Tales（足迹与故事）
 -----------------------------------------------------------------
 Minecraft Java Edition Only(6 Panoramas){共有5张Java版独有全景图}
-- [ ] Classical Panorama(Pre-Beta 1.9 Prerelease 4){经典全景图【白线未修复版】}
-- [ ] Classical Panorama（经典全景图【白线修复版】）
+- [x] Classical Panorama(Pre-Beta 1.9 Prerelease 4){经典全景图【白线未修复版】}
+- [x] Classical Panorama（经典全景图【白线修复版】）
 - [x] Update Aquatic（水域更新）
 - [x] Village & Pillage（村庄与掠夺）
 - [ ] Caves & Cliffs: Part I(Pre-21w18a){洞穴与山崖：第一部分【火把存在版】}
@@ -42,7 +42,7 @@ Minecraft Bedrock Edition/Pocket Edition Only(12 Panoramas){共有12张基岩版
 - [x] Cats and Pandas（猫与熊猫）
 - [x] Village & Pillage（村庄与掠夺）
 - [x] Buzzy Bees(Bedrock Edition 1.14.0.1){嗡嗡蜂群【基岩版1.14.0.1】}
-- [ ] Buzzy Bees(Bedrock Edition 1.14.0.2){嗡嗡蜂群【基岩版1.14.0.2】}
+- [x] Buzzy Bees(Bedrock Edition 1.14.0.2){嗡嗡蜂群【基岩版1.14.0.2】}
 - [x] Bedrock Edition Beta（基岩版Beta）
 - [x] Halloween 2021（2021年万圣节）
 - [x] Bedrock Edition Preview（基岩版Preview）
