@@ -17,7 +17,7 @@ Progress(23/37 Panoramas)<br>
 进展（23/37张全景图）
 
 Java and Bedrock Edition(5 Panoramas){共有5张Java版和基岩版共有全景图}
-- [x] Buzzy Bees(Java/Bedrock Edition 1.14.0.2){嗡嗡蜂群【Java/基岩版1.14.0.2后】}
+- [x] Buzzy Bees(Java){嗡嗡蜂群【Java】}
 - [ ] Nether Update（下界更新）
 - [x] Caves & Cliffs: Part I（洞穴与山崖：第一部分）
 - [x] Caves & Cliffs: Part II（洞穴与山崖：第二部分）
