@@ -10,11 +10,8 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
 
 <strong>注意</strong>
 
-<strong>1.The Panorama Of Education Edition have the same Panoramas as Java Edition and Bedrock Edition, but it have been adjusted to add Education Edition features,so I list it alone.<br></strong>
-<strong>1.教育版全景图是在Java版和基岩版的全景图的基础上调整以添加教育版独有特性，因为它们都有别于Java版和基岩版共有的全景图，因此单独列出。</strong>
-
-<strong>2.Some Panorama Have Two Version Because They Has Adjusted I List Them Alone.<br></strong>
-<strong>2.基岩版的嗡嗡蜂群有两个版本的全景图，因此单独列出。</strong>
+<strong>Some Panorama Have Two Version Because They Has Adjusted I List Them Alone.<br></strong>
+<strong>2.有些全景图因为某些原因而调整，因此有两个版本的全景图，此处单独列出。</strong>
 -----------------------------------------------------------------
 Progress(23/37 Panoramas)<br>
 进展（23/37张全景图）
