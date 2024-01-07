@@ -10,8 +10,8 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
 
 <strong>注意</strong>
 
-<strong>Some Panorama Have Two Version Because They Has Adjusted I List Them Alone.<br></strong>
-<strong>2.有些全景图因为某些原因而调整，因此有两个版本的全景图，此处单独列出。</strong>
+<strong>Some Panorama Have Two Version Because They Has Adjusted Here Will List Them Alone.<br></strong>
+<strong>有些全景图因为某些原因而调整，因此部分全景图有两个版本。此处单独列出。</strong>
 -----------------------------------------------------------------
 Progress(23/37 Panoramas)<br>
 进展（23/37张全景图）
