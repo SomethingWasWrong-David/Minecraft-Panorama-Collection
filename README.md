@@ -13,23 +13,23 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
 <strong>Some Panorama Have Two Version Because They Has Adjusted Here Will List Them Alone.<br></strong>
 <strong>有些全景图因为某些原因而调整，因此部分全景图有两个版本。此处单独列出。</strong>
 -----------------------------------------------------------------
-Progress(23/37 Panoramas)<br>
-进展（23/37张全景图）
+Progress(26/37 Panoramas)<br>
+进展（26/37张全景图）
 
 Java and Bedrock Edition(5 Panoramas){共有5张Java版和基岩版共有全景图}
 - [x] Buzzy Bees(Java){嗡嗡蜂群【Java】}
-- [ ] Nether Update（下界更新）
+- [x] Nether Update（下界更新）
 - [x] Caves & Cliffs: Part I（洞穴与山崖：第一部分）
 - [x] Caves & Cliffs: Part II（洞穴与山崖：第二部分）
 - [x] The Wild Update（荒野更新）
-- [ ] Trails & Tales（足迹与故事）
+- [x] Trails & Tales（足迹与故事）
 -----------------------------------------------------------------
 Minecraft Java Edition Only(6 Panoramas){共有5张Java版独有全景图}
 - [x] Classical Panorama(Pre-Beta 1.9 Prerelease 4){经典全景图【白线未修复版】}
 - [x] Classical Panorama（经典全景图【白线修复版】）
 - [x] Update Aquatic（水域更新）
 - [x] Village & Pillage（村庄与掠夺）
-- [ ] Caves & Cliffs: Part I(Pre-21w18a){洞穴与山崖：第一部分【火把存在版】}
+- [x] Caves & Cliffs: Part I(Pre-21w18a){洞穴与山崖：第一部分【火把存在版】}
 -----------------------------------------------------------------
 Minecraft Bedrock Edition/Pocket Edition Only(12 Panoramas){共有12张基岩版独有全景图}
 - [x] Classical Panorama(Pocket Edition){经典全景图【携带版模糊版】}
