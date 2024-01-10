@@ -51,7 +51,7 @@ Minecraft Education Edition Only(15 Panoramas)（共有15张教育版独有全�
 - [ ] Back to School Update（返校更新）
 - [x] Education Edition Demo（教育版演示）
 - [x] ChromeBook Release（ChromeBook更新）
-- [ ] Learn to Code Update（Learn to Code更新）
+- [x] Learn to Code Update（Learn to Code更新）
 - [x] GOAT Update(Caves & Cliffs: Part I Education Edition)（山羊更新（洞穴与山崖：第一部分教育版））
 - [x] Mobile, Multiplayer & More Update(Caves & Cliffs: Part II Education Edition)（洞穴与山崖：第二部分教育版）
 - [x] Hour of Code: TimeCraft（编辑一小时：时间之旅）
