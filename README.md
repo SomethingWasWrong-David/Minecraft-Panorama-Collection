@@ -13,8 +13,8 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
 <strong>Some Panorama Have Two Version Because They Has Adjusted Here Will List Them Alone.<br></strong>
 <strong>有些全景图因为某些原因而调整，因此部分全景图有两个版本。此处单独列出。</strong>
 -----------------------------------------------------------------
-Progress(26/37 Panoramas)<br>
-进展（26/37张全景图）
+Progress(28/37 Panoramas)<br>
+进展（28/37张全景图）
 
 Java and Bedrock Edition(5 Panoramas){共有5张Java版和基岩版共有全景图}
 - [x] Buzzy Bees(Java){嗡嗡蜂群【Java】}
@@ -52,8 +52,8 @@ Minecraft Education Edition Only(15 Panoramas){共有15张教育版独有全景�
 - [x] Education Edition Demo（教育版演示）
 - [x] ChromeBook Release（ChromeBook更新）
 - [ ] Learn to Code Update（Learn to Code更新）
-- [ ] GOAT Update(Caves & Cliffs: Part I Education Edition){山羊更新【洞穴与山崖：第一部分教育版】}
-- [ ] Mobile, Multiplayer & More Update(Caves & Cliffs: Part II Education Edition){洞穴与山崖：第二部分教育版}
+- [x] GOAT Update(Caves & Cliffs: Part I Education Edition){山羊更新【洞穴与山崖：第一部分教育版】}
+- [x] Mobile, Multiplayer & More Update(Caves & Cliffs: Part II Education Edition){洞穴与山崖：第二部分教育版}
 - [x] Hour of Code: TimeCraft（编辑一小时：时间之旅）
 - [ ] Hour of Code: Escape Estate（编辑一小时：逃离庄园）
 - [ ] Frozen Planet 2（冰冻星球2）
