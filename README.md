@@ -13,8 +13,8 @@ Panoramas Source：[Minecraft Wiki](https://minecraft.wiki/w/Panorama)<br>
 <strong>Some Panorama Have Two Version Because They Has Adjusted Here Will List Them Alone.<br></strong>
 <strong>有些全景图因为某些原因而调整，因此部分全景图有两个版本。此处单独列出。</strong>
 -----------------------------------------------------------------
-Progress(29/37 Panoramas)<br>
-进展（29/37张全景图）
+Progress(32/37 Panoramas)<br>
+进展（32/37张全景图）
 
 Java and Bedrock Edition(5 Panoramas)<br>
 共有5张Java版和基岩版共有全景图<br>
@@ -50,9 +50,9 @@ Minecraft Bedrock Edition/Pocket Edition Only(12 Panoramas)<br>
 -----------------------------------------------------------------
 Minecraft Education Edition Only(15 Panoramas)<br>
 共有15张教育版独有全景图<br>
-- [ ] Education Beta（教育版Beta）
+- [x] Education Beta（教育版Beta）
 - [ ] Education Personal Edition（教育个人版）
-- [ ] Back to School Update（返校更新）
+- [x] Back to School Update（返校更新）
 - [x] Education Edition Demo（教育版演示）
 - [x] ChromeBook Release（ChromeBook更新）
 - [x] Learn to Code Update（Learn to Code更新）
@@ -62,6 +62,6 @@ Minecraft Education Edition Only(15 Panoramas)<br>
 - [ ] Hour of Code: Escape Estate（编辑一小时：逃离庄园）
 - [ ] Frozen Planet 2（冰冻星球2）
 - [x] The Wild Update Education Edition（荒野更新教育版）
-- [ ] Artemis: Rocket Build（阿尔忒弥斯计划：火箭制造）
+- [x] Artemis: Rocket Build（阿尔忒弥斯计划：火箭制造）
 - [ ] Trails & Tales Education Edition（足迹与故事教育版）
 - [ ] Hour Of Code: Generation AI（编辑一小时：AI世代）
