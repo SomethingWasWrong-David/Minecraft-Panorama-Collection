@@ -63,5 +63,5 @@ Minecraft Education Edition Only(15 Panoramas)<br>
 - [ ] Frozen Planet 2（冰冻星球2）
 - [x] The Wild Update Education Edition（荒野更新教育版）
 - [x] Artemis: Rocket Build（阿尔忒弥斯计划：火箭制造）
-- [ ] Trails & Tales Education Edition（足迹与故事教育版）
+- [x] Trails & Tales Education Edition（足迹与故事教育版）
 - [ ] Hour Of Code: Generation AI（编辑一小时：AI世代）
